@@ -16,4 +16,4 @@ Call PHP script `tp_link_wr1043nd.php` from command line with one of the followi
 - **clients** - get router connected clients
 
 ## Example:
-`./tp_link_wr1043nd.php restart` - will restart the router.
+`php tp_link_wr1043nd.php restart` - will restart the router.
