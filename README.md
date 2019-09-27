@@ -1,4 +1,4 @@
-# PHP-CLI TP Link WR1043ND
+# PHP-CLI TP-Link WR1043ND
 PHP-CLI Script for controlling TP-LINK WR1043ND routers on linux based systems. Tested and developed on a TP-LINK WR1043ND V5 router.
 
 ## Configuring:
